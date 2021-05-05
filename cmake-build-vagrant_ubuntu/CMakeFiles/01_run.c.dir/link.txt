@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/01_run.c.dir/01_run.c.o  -o 01_run.c 

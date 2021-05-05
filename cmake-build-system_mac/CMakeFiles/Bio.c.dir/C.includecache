@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanghanlin/CLionProjects/c_test/bio.c
+stdio.h
+-
+stdlib.h
+-
+libc.h
+-
+errno.h
+-
+

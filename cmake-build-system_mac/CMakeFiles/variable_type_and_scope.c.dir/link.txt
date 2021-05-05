@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/variable_type_and_scope.c.dir/variable_type_and_scope.c.o CMakeFiles/variable_type_and_scope.c.dir/tinycthread/tinycthread.c.o -o variable_type_and_scope.c  -lpthread 

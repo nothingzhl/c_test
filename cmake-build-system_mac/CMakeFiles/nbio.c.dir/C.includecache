@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanghanlin/CLionProjects/c_test/nbio.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+libc.h
+-
+errno.h
+-
+

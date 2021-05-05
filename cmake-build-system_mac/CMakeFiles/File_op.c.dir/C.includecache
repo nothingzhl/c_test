@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include/tinycthread.h
+time.h
+-
+pthread.h
+-
+windows.h
+-
+
+/Users/zhanghanlin/CLionProjects/c_test/tinycthread/tinycthread.c
+include/tinycthread.h
+/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include/tinycthread.h
+stdlib.h
+-
+signal.h
+-
+sched.h
+-
+unistd.h
+-
+sys/time.h
+-
+errno.h
+-
+process.h
+-
+sys/timeb.h
+-
+

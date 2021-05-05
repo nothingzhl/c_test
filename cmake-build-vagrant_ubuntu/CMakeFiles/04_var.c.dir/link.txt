@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/04_var.c.dir/04_var.c.o  -o 04_var.c 

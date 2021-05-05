@@ -1,0 +1,14 @@
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/edit_cache.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/variable_type_and_scope.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/quick_sort.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/point.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/rebuild_cache.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/macro_func.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/condition.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/02_int.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/de_ln.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/03_char.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/01_run.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/04_var.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/array.c.dir
+/tmp/c_test/cmake-build-vagrant_ubuntu/CMakeFiles/common.c.dir

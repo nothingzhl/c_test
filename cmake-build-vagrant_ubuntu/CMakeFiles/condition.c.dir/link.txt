@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/condition.c.dir/condition.c.o  -o condition.c 

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="variable_type_and_scope.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/variable_type_and_scope.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 variable_type_and_scope.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="variable_type_and_scope.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/variable_type_and_scope.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 variable_type_and_scope.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick_sort.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/quick_sort.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 quick_sort.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick_sort.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/quick_sort.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 quick_sort.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="point.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/point.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 point.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="point.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/point.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 point.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_func.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/macro_func.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 macro_func.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_func.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/macro_func.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 macro_func.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/condition.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 condition.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/condition.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 condition.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02_int.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/02_int.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 02_int.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02_int.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/02_int.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 02_int.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_ln.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/de_ln.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 de_ln.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_ln.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/de_ln.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 de_ln.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_char.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/03_char.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 03_char.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_char.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/03_char.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 03_char.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_run.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/01_run.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 01_run.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_run.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/01_run.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 01_run.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_var.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/04_var.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 04_var.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_var.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/04_var.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 04_var.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/array.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 array.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/array.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 array.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common.c">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/common.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 common.c"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common.c/fast">
+				<Option output="/tmp/c_test/cmake-build-vagrant_ubuntu/common.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/c_test/cmake-build-vagrant_ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/c_test/head"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 common.c/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/c_test/cmake-build-vagrant_ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/c_test/01_run.c">
+			<Option target="01_run.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/02_int.c">
+			<Option target="02_int.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/03_char.c">
+			<Option target="03_char.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/04_var.c">
+			<Option target="04_var.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/array.c">
+			<Option target="array.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/common.c">
+			<Option target="common.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/condition.c">
+			<Option target="condition.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/de_ln.c">
+			<Option target="de_ln.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/macro_func.c">
+			<Option target="macro_func.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/point.c">
+			<Option target="point.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/quick_sort.c">
+			<Option target="quick_sort.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/variable_type_and_scope.c">
+			<Option target="variable_type_and_scope.c"/>
+		</Unit>
+		<Unit filename="/tmp/c_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

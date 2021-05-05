@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanghanlin/CLionProjects/c_test/sigIo.c
+i386/signal.h
+-
+termios.h
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+libc.h
+-
+

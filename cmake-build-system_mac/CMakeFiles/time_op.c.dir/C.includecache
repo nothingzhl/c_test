@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../head/common.h
+stdio.h
+-
+stdarg.h
+-
+
+/Users/zhanghanlin/CLionProjects/c_test/time_op.c
+time.h
+-
+stdio.h
+-
+common.h
+-
+

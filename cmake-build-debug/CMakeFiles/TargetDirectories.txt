@@ -1,0 +1,14 @@
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/de_ln.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/common.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/04_var.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/03_char.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/quick_sort.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/condition.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/02_int.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/01_run.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/point.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/variable_type_and_scope.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/array.c.dir
+/Users/zhanghanlin/CLionProjects/c_test/cmake-build-debug/CMakeFiles/macro_func.c.dir

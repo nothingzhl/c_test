@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="time_test.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/time_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 time_test.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="time_test.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/time_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 time_test.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_test.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/thread_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 thread_test.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_test.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/thread_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 thread_test.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_sec.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/thread_sec.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 thread_sec.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_sec.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/thread_sec.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 thread_sec.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="variable_type_and_scope.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/variable_type_and_scope.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 variable_type_and_scope.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="variable_type_and_scope.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/variable_type_and_scope.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 variable_type_and_scope.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stuct_test.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/stuct_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 stuct_test.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stuct_test.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/stuct_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 stuct_test.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_ln.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/de_ln.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 de_ln.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_ln.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/de_ln.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 de_ln.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigIo.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/sigIo.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 sigIo.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigIo.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/sigIo.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 sigIo.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="func_point.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/func_point.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 func_point.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="func_point.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/func_point.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 func_point.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick_sort.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/quick_sort.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 quick_sort.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick_sort.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/quick_sort.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 quick_sort.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alloc_mem.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/alloc_mem.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 alloc_mem.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alloc_mem.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/alloc_mem.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 alloc_mem.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nbio.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/nbio.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 nbio.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nbio.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/nbio.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 nbio.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="enum_test.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/enum_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 enum_test.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="enum_test.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/enum_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 enum_test.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_func.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/macro_func.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 macro_func.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_func.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/macro_func.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 macro_func.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iofy.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/iofy.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 iofy.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iofy.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/iofy.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 iofy.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="File_op.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/File_op.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 File_op.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="File_op.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/File_op.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 File_op.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_test.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/string_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 string_test.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_test.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/string_test.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 string_test.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="link.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/link.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 link.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="link.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/link.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 link.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/condition.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 condition.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/condition.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 condition.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/common.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 common.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/common.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 common.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bio.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/bio.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 bio.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bio.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/bio.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 bio.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_run.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/01_run.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 01_run.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_run.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/01_run.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 01_run.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aioself.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/aioself.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 aioself.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aioself.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/aioself.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 aioself.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/array.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 array.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/array.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 array.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_var.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/04_var.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 04_var.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_var.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/04_var.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 04_var.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_char.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/03_char.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 03_char.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_char.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/03_char.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 03_char.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="time_op.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/time_op.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 time_op.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="time_op.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/time_op.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 time_op.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aio_callback.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/aio_callback.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 aio_callback.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aio_callback.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/aio_callback.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 aio_callback.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02_int.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/02_int.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 02_int.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02_int.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/02_int.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 02_int.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="point.c">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/point.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 point.c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="point.c/fast">
+				<Option output="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/point.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/head"/>
+					<Add directory="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 point.c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhanghanlin/CLionProjects/c_test/cmake-build-system_mac/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/01_run.c">
+			<Option target="01_run.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/02_int.c">
+			<Option target="02_int.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/03_char.c">
+			<Option target="03_char.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/04_var.c">
+			<Option target="04_var.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/File_op.c">
+			<Option target="File_op.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/aio_callback.c">
+			<Option target="aio_callback.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/aioself.c">
+			<Option target="aioself.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/alloc_mem.c">
+			<Option target="alloc_mem.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/array.c">
+			<Option target="array.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/bio.c">
+			<Option target="bio.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/common.c">
+			<Option target="common.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/condition.c">
+			<Option target="condition.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/de_ln.c">
+			<Option target="de_ln.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/enum_test.c">
+			<Option target="enum_test.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/func_point.c">
+			<Option target="func_point.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/iofy.c">
+			<Option target="iofy.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/link.c">
+			<Option target="link.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/macro_func.c">
+			<Option target="macro_func.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/nbio.c">
+			<Option target="nbio.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/point.c">
+			<Option target="point.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/quick_sort.c">
+			<Option target="quick_sort.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/sigIo.c">
+			<Option target="sigIo.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/string_test.c">
+			<Option target="string_test.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/stuct_test.c">
+			<Option target="stuct_test.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/thread_sec.c">
+			<Option target="thread_sec.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/thread_test.c">
+			<Option target="thread_test.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/time_op.c">
+			<Option target="time_op.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/time_test.c">
+			<Option target="time_test.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/tinycthread/tinycthread.c">
+			<Option target="time_test.c"/>
+			<Option target="thread_test.c"/>
+			<Option target="thread_sec.c"/>
+			<Option target="variable_type_and_scope.c"/>
+			<Option target="stuct_test.c"/>
+			<Option target="de_ln.c"/>
+			<Option target="sigIo.c"/>
+			<Option target="func_point.c"/>
+			<Option target="quick_sort.c"/>
+			<Option target="alloc_mem.c"/>
+			<Option target="nbio.c"/>
+			<Option target="enum_test.c"/>
+			<Option target="macro_func.c"/>
+			<Option target="iofy.c"/>
+			<Option target="File_op.c"/>
+			<Option target="string_test.c"/>
+			<Option target="link.c"/>
+			<Option target="condition.c"/>
+			<Option target="common.c"/>
+			<Option target="bio.c"/>
+			<Option target="01_run.c"/>
+			<Option target="aioself.c"/>
+			<Option target="array.c"/>
+			<Option target="04_var.c"/>
+			<Option target="03_char.c"/>
+			<Option target="time_op.c"/>
+			<Option target="aio_callback.c"/>
+			<Option target="02_int.c"/>
+			<Option target="point.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/variable_type_and_scope.c">
+			<Option target="variable_type_and_scope.c"/>
+		</Unit>
+		<Unit filename="/Users/zhanghanlin/CLionProjects/c_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

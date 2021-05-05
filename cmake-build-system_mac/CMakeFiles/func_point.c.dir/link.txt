@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/func_point.c.dir/func_point.c.o CMakeFiles/func_point.c.dir/tinycthread/tinycthread.c.o -o func_point.c  -lpthread 

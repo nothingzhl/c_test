@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanghanlin/CLionProjects/c_test/aio_callback.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+aio.h
+-
+

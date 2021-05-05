@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sigIo.c.dir/sigIo.c.o CMakeFiles/sigIo.c.dir/tinycthread/tinycthread.c.o -o sigIo.c  -lpthread 

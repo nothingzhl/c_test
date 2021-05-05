@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/variable_type_and_scope.c.dir/variable_type_and_scope.c.o  -o variable_type_and_scope.c 

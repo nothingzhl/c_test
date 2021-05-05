@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="vagrant-ubuntu (3ee4b710-d3b0-45f5-bf0b-ca30b2a6fb59)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/c_test" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-system_mac" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-vagrant_ubuntu" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

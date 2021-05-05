@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/stuct_test.c.dir/stuct_test.c.o CMakeFiles/stuct_test.c.dir/tinycthread/tinycthread.c.o -o stuct_test.c  -lpthread 

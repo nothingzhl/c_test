@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/03_char.c.dir/03_char.c.o  -o 03_char.c 

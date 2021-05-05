@@ -1,0 +1,5 @@
+#ifndef C_TEST_CONDITION_H
+#define C_TEST_CONDITION_H
+
+
+#endif //C_TEST_CONDITION_H

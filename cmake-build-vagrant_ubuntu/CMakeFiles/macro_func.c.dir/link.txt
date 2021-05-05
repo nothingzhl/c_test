@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/macro_func.c.dir/macro_func.c.o  -o macro_func.c 

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/02_int.c.dir/02_int.c.o  -o 02_int.c 

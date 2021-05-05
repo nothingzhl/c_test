@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../head/common.h
+stdio.h
+-
+stdarg.h
+-
+
+/Users/zhanghanlin/CLionProjects/c_test/quick_sort.c
+time.h
+-
+stdlib.h
+-
+common.h
+-
+
